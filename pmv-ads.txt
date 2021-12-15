@@ -1,0 +1,17 @@
+#Ads.txt
+contact=adops@pmsor.no
+
+#schibsted
+appnexus.com, 9700, DIRECT
+
+#pm hb
+adform.com, 1480, DIRECT
+rubiconproject.com, 20758, DIRECT, 0bfd66d529a55807
+pubmatic.com, 158219, DIRECT, 5d62403b186f2ace
+improvedigital.com, 1574, DIRECT
+152media.info, 152M224, DIRECT
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+
+#other resellers
+improvedigital.com, 1166, RESELLER
