@@ -2,7 +2,7 @@
 contact=adops@pmsor.no
 
 #schibsted
-appnexus.com, 9700, DIRECT, f5ab79cb980f11d1
+appnexus.com, 9700, DIRECT
 
 #pm hb
 adform.com, 1480, DIRECT
